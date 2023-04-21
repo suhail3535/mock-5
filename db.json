@@ -1,8 +1,34 @@
 {
     "data": [
-
-    ],
-    "hotel":[
-        
+        {
+            "name": "suhail",
+            "location": "hardoi",
+            "course": "dataSciene",
+            "id": 1
+        },
+        {
+            "name": "Suhail khan",
+            "location": "hardoi",
+            "course": "dataSciene",
+            "id": 2
+        },
+        {
+            "name": "repo",
+            "location": "kanpur",
+            "course": "dsa",
+            "id": 3
+        },
+        {
+            "name": "shan",
+            "location": "jaipur",
+            "course": "coadung",
+            "id": 4
+        },
+        {
+            "name": "aman",
+            "location": "kanpur",
+            "course": "dataSciene",
+            "id": 5
+        }
     ]
 }
